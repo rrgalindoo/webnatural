@@ -1,0 +1,59 @@
+
+body{
+  background: rgb(192, 192, 122);
+
+}
+.flex-container{
+  display: flex;
+  justify-content: center;
+  align-items:;
+  flex-direction:initial;
+}
+.flex-item1{
+  background-color: white;
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 40px;
+}
+.flex-item2{
+  background-color: white;
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 40px;
+  order: -1;
+}
+
+.center {
+    background: rgb(7, 128, 97);
+    position: relative;
+    bottom:100%    
+    
+}
+
+@media(min-width: 1024px){
+    .formulario{
+flex-direction: row;
+justify-content: space-evenly;
+width: 100px;
+
+    }
+}
+
+@media(min-width: 768px){
+    .label{
+width: 100px;
+margin: 50px;
+
+    }
+}
+@media(min-width: 480px){
+    .li{
+width: 70px;
+margin: 30px;
+
+    }
+}

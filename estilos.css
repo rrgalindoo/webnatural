@@ -1,0 +1,53 @@
+  
+  
+  nav {
+        background: #759068
+        }
+        #titulo {
+            background-color: #a4bd98;
+        }
+a{  
+    color: white;
+   }
+    footer{
+        margin-top: 70px;
+        background-color: black;
+        color: white;
+    }        
+
+    header {
+        background-color:#759068 ;  }
+
+      
+
+        h3{
+            font-size: 30px;
+            font-family:cursive;
+        }
+
+        body{
+          text-align: justify;
+
+        }
+
+            
+        #font1
+        {
+            margin-top:2px;
+  margin-left:4px;
+  color:black;
+  font-size:20px;
+  margin-top:10px;
+  color:yellow;
+  font-size:20px;
+  font-family:Verdana;
+        }
+       
+
+        img {
+            float: right;
+            display: block;
+            width: 40%;
+        }
+
+
